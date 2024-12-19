@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 import Footer from "./components/Footer/Footer";
 import Navbar from "./components/Navbar/Navbar";
@@ -14,7 +14,7 @@ import Shop from "./pages/Shop/Shop";
 function App() {
   const [order, setOrder] = useState(null);
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />}></Route>
@@ -35,7 +35,7 @@ function App() {
       <div>
         <ToastContainer position="top-right" autoClose={3000} />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
