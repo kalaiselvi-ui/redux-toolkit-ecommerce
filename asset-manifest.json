@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/redux-toolkit-ecommerce/static/css/main.c03a085f.css",
+    "main.js": "/redux-toolkit-ecommerce/static/js/main.cb7da9d4.js",
+    "static/media/women-cate.jpg": "/redux-toolkit-ecommerce/static/media/women-cate.722c1e1cd0c025722748.jpg",
+    "static/media/product10.jpg": "/redux-toolkit-ecommerce/static/media/product10.e17067ee1b7c35383ab1.jpg",
+    "static/media/kid-cate.jpg": "/redux-toolkit-ecommerce/static/media/kid-cate.8c4a7c0b5e0ed5bf1a6f.jpg",
+    "static/media/heroImage.jpg": "/redux-toolkit-ecommerce/static/media/heroImage.e282cf57059221c7aed8.jpg",
+    "static/media/product9.jpg": "/redux-toolkit-ecommerce/static/media/product9.e45e1d409f5fca420c3d.jpg",
+    "static/media/product8.jpg": "/redux-toolkit-ecommerce/static/media/product8.84b5450d058b0586a132.jpg",
+    "static/media/product1.png": "/redux-toolkit-ecommerce/static/media/product1.da10098e8610c16ea9a9.png",
+    "static/media/product5.png": "/redux-toolkit-ecommerce/static/media/product5.f042b4efa6b5636f2a73.png",
+    "static/media/product7.jpg": "/redux-toolkit-ecommerce/static/media/product7.1b5bd5033fc8d0937442.jpg",
+    "static/media/product3.png": "/redux-toolkit-ecommerce/static/media/product3.c55f02e34dad1e13d774.png",
+    "static/media/product6.jpg": "/redux-toolkit-ecommerce/static/media/product6.b47f78be92f470fa3bff.jpg",
+    "static/media/product4.png": "/redux-toolkit-ecommerce/static/media/product4.6064661f42efdad686e2.png",
+    "static/media/product2.png": "/redux-toolkit-ecommerce/static/media/product2.0688ddee5d4c2563f3cf.png",
+    "static/media/men-cate.jpg": "/redux-toolkit-ecommerce/static/media/men-cate.8f7e9bcd2877f8962632.jpg",
+    "static/media/emptycart.jpg": "/redux-toolkit-ecommerce/static/media/emptycart.93952a06882fa06fe46e.jpg",
+    "index.html": "/redux-toolkit-ecommerce/index.html",
+    "main.c03a085f.css.map": "/redux-toolkit-ecommerce/static/css/main.c03a085f.css.map",
+    "main.cb7da9d4.js.map": "/redux-toolkit-ecommerce/static/js/main.cb7da9d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c03a085f.css",
+    "static/js/main.cb7da9d4.js"
+  ]
+}
